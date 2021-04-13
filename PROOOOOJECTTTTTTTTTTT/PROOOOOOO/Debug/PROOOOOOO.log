@@ -1,0 +1,9 @@
+﻿  Student.cpp
+  main.cpp
+C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\PROOOOOOO\main.cpp(8,6): warning C4101: 'classNo': unreferenced local variable
+C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\PROOOOOOO\main.cpp(11,20): warning C4101: 'teachers': unreferenced local variable
+C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\PROOOOOOO\main.cpp(420,20): warning C4101: 'courseNo': unreferenced local variable
+  Generating Code...
+C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\PROOOOOOO\Student.cpp(747): warning C4715: 'Student::editstudent': not all control paths return a value
+C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\PROOOOOOO\Student.cpp(1326): warning C4715: 'Teacher::editTeacher': not all control paths return a value
+  PROOOOOOO.vcxproj -> C:\Users\umerk\Desktop\PROOOOOJECTTTTTTTTTTT\Debug\PROOOOOOO.exe
